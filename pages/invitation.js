@@ -73,8 +73,9 @@ export default function Invitation() {
           </p>
           <div className="flex flex-col mb-8 p-8 border border-solid border-gray-300 shadow-md rounded-md justify-center text-center">
             <p>Minggu, 29 Mei 2022</p>
-            <p>Akad: 08.00 - 09.00 WIB</p>
-            <p>Resepsi: 09.00 - 11.30 WIB</p>
+            <p>Akad: 08.00 WIB</p>
+            <p>Resepsi: 10.30 - 14.00 WIB</p>
+            <p>Alamat: Dusun Dumpil RT 12/ RW 03 Desa Kalangdosari Kec. Ngaringan Grobogan</p>
           </div>
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d989.8494125854437!2d111.19358982918071!3d-7.079812999680434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc3452d04b218c32!2zN8KwMDQnNDcuMyJTIDExMcKwMTEnMzguOSJF!5e0!3m2!1sid!2sid!4v1651934271905!5m2!1sid!2sid" width="100%" height="100%" style={{border : '0'}} frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
           <p className="text-center my-8 md:my-4 md:max-w-xl lg:max-w-3xl">
